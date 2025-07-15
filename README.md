@@ -1,5 +1,8 @@
 # Blinkit Sales and Marketing Analysis Project:
 
+![image alt](https://raw.githubusercontent.com/PriyamOberoi/BlinkIt-Analysis-PowerBI-/refs/heads/main/Screenshot%20(86).png)
+![image alt](https://raw.githubusercontent.com/PriyamOberoi/BlinkIt-Analysis-PowerBI-/refs/heads/main/Screenshot%20(85).png)
+![image alt](https://raw.githubusercontent.com/PriyamOberoi/BlinkIt-Analysis-PowerBI-/refs/heads/main/Screenshot%20(83).png)
 
 # Project Overview:
 The project explores Blinkit’s sales trends, customer behavior, marketing performance, and revenue patterns. The goal was to uncover insights that help understand customer preferences, improve marketing strategies, and support better business planning.
